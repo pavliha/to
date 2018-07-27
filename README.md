@@ -14,7 +14,7 @@ catch(err){
 ```
 ###### You could write like that:
 ```javascript 
-import to from 'to-util'
+import to from 'util-to'
 
 const [err, response] = await to(this.instance.post(url, params))
 if(err) throw "Some error"
