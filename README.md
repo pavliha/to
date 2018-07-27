@@ -1,4 +1,4 @@
-# utill-to
+# util-to
 
 It is just simple util that helps you to write less code
 
